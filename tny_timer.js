@@ -4,8 +4,8 @@
    Review Assignment
 
    Event Timer
-   Author: 
-   Date:   
+   Author: Abraham Rivera Garcia
+   Date: January 7th, 2019
 
 */
 
